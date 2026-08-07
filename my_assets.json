@@ -1,0 +1,8 @@
+[
+    {"symbol": "NVDA", "type": "US_STOCK", "type_tr": "ABD Hisse", "sector": "Yarı İletken", "qty": 15.0, "avg_cost": 95.0, "currency": "USD"},
+    {"symbol": "ALKA.IS", "type": "TR_STOCK", "type_tr": "BIST", "sector": "Kimya/Kağıt", "qty": 500.0, "avg_cost": 25.0, "currency": "TRY"},
+    {"symbol": "MAC", "type": "TEFAS", "type_tr": "Fon", "sector": "Hisse Yoğun", "qty": 10000.0, "avg_cost": 0.05, "currency": "TRY"},
+    {"symbol": "BTC-USD", "type": "CRYPTO", "type_tr": "Kripto", "sector": "L1 Zincir", "qty": 0.25, "avg_cost": 42000.0, "currency": "USD"},
+    {"symbol": "ALTIN_GRAM", "type": "GOLD", "type_tr": "Emtia", "sector": "Kıymetli Maden", "qty": 50.0, "avg_cost": 2000.0, "currency": "TRY"},
+    {"symbol": "GAYRIMENKUL", "type": "MANUAL", "type_tr": "Gayrimenkul", "sector": "Konut", "qty": 1, "avg_cost": 3000000.0, "current_price": 3500000.0, "currency": "TRY"}
+]
