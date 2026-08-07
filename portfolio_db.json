@@ -1,0 +1,66 @@
+{
+    "usd_try": 47.69129943847656,
+    "last_sync": "2026-08-07 19:50:41 UTC",
+    "assets": [
+        {
+            "symbol": "NVDA",
+            "type": "US_STOCK",
+            "type_tr": "ABD Hisse",
+            "sector": "Yarı İletken",
+            "qty": 15.0,
+            "avg_cost": 95.0,
+            "currency": "USD",
+            "current_price": 223.02499389648438
+        },
+        {
+            "symbol": "ALKA.IS",
+            "type": "TR_STOCK",
+            "type_tr": "BIST",
+            "sector": "Kimya/Kağıt",
+            "qty": 500.0,
+            "avg_cost": 25.0,
+            "currency": "TRY",
+            "current_price": 8.229999542236328
+        },
+        {
+            "symbol": "MAC",
+            "type": "TEFAS",
+            "type_tr": "Fon",
+            "sector": "Hisse Yoğun",
+            "qty": 10000.0,
+            "avg_cost": 0.05,
+            "currency": "TRY",
+            "current_price": 0.0
+        },
+        {
+            "symbol": "BTC-USD",
+            "type": "CRYPTO",
+            "type_tr": "Kripto",
+            "sector": "L1 Zincir",
+            "qty": 0.25,
+            "avg_cost": 42000.0,
+            "currency": "USD",
+            "current_price": 64937.75
+        },
+        {
+            "symbol": "ALTIN_GRAM",
+            "type": "GOLD",
+            "type_tr": "Emtia",
+            "sector": "Kıymetli Maden",
+            "qty": 50.0,
+            "avg_cost": 2000.0,
+            "currency": "TRY",
+            "current_price": 6755.3030125485275
+        },
+        {
+            "symbol": "GAYRIMENKUL",
+            "type": "MANUAL",
+            "type_tr": "Gayrimenkul",
+            "sector": "Konut",
+            "qty": 1,
+            "avg_cost": 3000000.0,
+            "current_price": 3500000.0,
+            "currency": "TRY"
+        }
+    ]
+}
