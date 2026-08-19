@@ -1,6 +1,6 @@
 {
-    "usd_try": 47.936580657958984,
-    "last_sync": "2026-08-19 12:22:27 UTC",
+    "usd_try": 47.93339920043945,
+    "last_sync": "2026-08-19 13:36:36 UTC",
     "assets": [
         {
             "symbol": "NVDA",
@@ -10,7 +10,7 @@
             "qty": 15.0,
             "avg_cost": 95.0,
             "currency": "USD",
-            "current_price": 219.74000549316406
+            "current_price": 221.0
         },
         {
             "symbol": "ALKA.IS",
@@ -20,7 +20,7 @@
             "qty": 500.0,
             "avg_cost": 25.0,
             "currency": "TRY",
-            "current_price": 8.100000381469727
+            "current_price": 8.130000114440918
         },
         {
             "symbol": "MAC",
@@ -40,7 +40,7 @@
             "qty": 0.25,
             "avg_cost": 42000.0,
             "currency": "USD",
-            "current_price": 64442.2890625
+            "current_price": 64911.98828125
         },
         {
             "symbol": "ALTIN_GRAM",
@@ -50,7 +50,7 @@
             "qty": 50.0,
             "avg_cost": 2000.0,
             "currency": "TRY",
-            "current_price": 6819.1746736062505
+            "current_price": 6961.118979805649
         },
         {
             "symbol": "GAYRIMENKUL",
