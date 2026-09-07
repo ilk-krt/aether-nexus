@@ -1,6 +1,6 @@
 {
-    "usd_try": 48.434898376464844,
-    "last_sync": "2026-09-07 00:28:21 UTC",
+    "usd_try": 48.43550109863281,
+    "last_sync": "2026-09-07 05:25:24 UTC",
     "assets": [
         {
             "symbol": "NVDA",
@@ -40,7 +40,7 @@
             "qty": 0.25,
             "avg_cost": 42000.0,
             "currency": "USD",
-            "current_price": 80189.3125
+            "current_price": 79886.9765625
         },
         {
             "symbol": "ALTIN_GRAM",
@@ -50,7 +50,7 @@
             "qty": 50.0,
             "avg_cost": 2000.0,
             "currency": "TRY",
-            "current_price": 6971.037690358097
+            "current_price": 6971.124437705373
         },
         {
             "symbol": "GAYRIMENKUL",
